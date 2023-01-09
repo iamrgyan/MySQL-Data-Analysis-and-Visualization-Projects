@@ -9,7 +9,7 @@ MySQL Workbench | PowerBI
 
 MySQL project worked on Amazon's Order focused dataset.
 
-* Import data into MySQL einvironment
+* Import data into MySQL environment
 * Data Cleaning
 * Data Wrangling
 
